@@ -1,2 +1,2 @@
-# SpicePlates
+# SpicePlates restaurant Website
  
